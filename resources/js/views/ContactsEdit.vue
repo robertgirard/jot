@@ -47,6 +47,7 @@
 </template>
 
 <script>
+//  Test
     import InputField from '../components/InputField';
     import DatePicker from 'vue2-datepicker';
     import 'vue2-datepicker/index.css';
